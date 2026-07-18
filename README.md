@@ -18,10 +18,6 @@ Functions:
 -ASCII Terminal
 -Mabye more things soon
 
-There is a log so you can look back what you did.
-
-WE CANNOT READ YOUR LOGS
-
 Use JNT/Jappa Network Tools at your own risk, this is a tool for educational purposes only!
 We are not responsable for your actions.
 
